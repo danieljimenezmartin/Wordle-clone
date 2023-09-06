@@ -15,7 +15,7 @@
 <br/>
 
 ## <a name="demo"></a>Demo 📹
-![tarjeta](https://github.com/danieljimenezmartin/tarjeta-interactiva/assets/117579989/0ece363b-104b-435f-8b1c-d054ff9dbca1)  
+![wordle](https://github.com/danieljimenezmartin/Wordle-clone/assets/117579989/610c9e18-9cb5-480b-9c70-30cd625476ab)
 <br/>
 
 ## <a name="objetivos"></a>Objetivos 🎯
@@ -29,7 +29,7 @@ Este proyecto no necesita instalación.
 <br/>
 
 ## <a name="ver-proyecto"></a>Ver el proyecto ⚡
-- [https://danieljimenezmartin.github.io/tarjeta-interactiva/](https://danieljimenezmartin.github.io/Tarjeta-interactiva/)
+- https://danieljimenezmartin.github.io/Wordle-clone/
 <br/>
 
 ## <a name="desarrollo"></a>Desarrollo 📐
